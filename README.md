@@ -1,0 +1,1 @@
+This repository is for tasks from Google Code Jam competition: <https://code.google.com/codejam>
